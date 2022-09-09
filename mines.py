@@ -1,4 +1,3 @@
-# This is a mines predictor. Not a towers predictor.
 
 import random
 
